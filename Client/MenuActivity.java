@@ -1,4 +1,4 @@
-package com.example.sergey.bluetoothmanager;
+package com.example.andrei.bluetoothmanager;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
